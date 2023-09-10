@@ -1,0 +1,11 @@
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: C:/Users/Максим/Desktop/FirstLibrary/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_51661 && [1/2] Building C object CMakeFiles\cmTC_51661.dir\CMakeCCompilerABI.c.obj
+FAILED: CMakeFiles/cmTC_51661.dir/CMakeCCompilerABI.c.obj 
+C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_51661.dir\CMakeCCompilerABI.c.obj /FdCMakeFiles\cmTC_51661.dir\ /FS -c "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.20\Modules\CMakeCCompilerABI.c"
+ninja: build stopped: subcommand failed.
+
+
+
+
